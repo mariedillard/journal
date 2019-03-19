@@ -1,5 +1,6 @@
 import { entryCount } from './journal';
 import { vowelCount } from './journal';
+import $ from 'jquery';
 import './styles.css';
 
 
