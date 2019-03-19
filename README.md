@@ -2,7 +2,7 @@
 
 #### _3/18/2019_
 
-#### By _**Olha Wysocky and Pavel Zanchuk**_
+#### By _**Olha Wysocky and Marie Dillard**_
 
 ## Description
 _This is a program that counts words from body and other stuff._
